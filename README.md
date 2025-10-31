@@ -79,5 +79,3 @@ The objective is to identify the most reliable model based on different evaluati
 ---
 
 
-## Dependencies
-
