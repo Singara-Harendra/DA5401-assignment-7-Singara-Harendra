@@ -1,6 +1,10 @@
+
+👨‍💻 Author
+Name : Singara Harendra
+
+Roll Number : DA25M028
+
 # DA5401 — A7: Multi-Class Model Selection using ROC & PRC
-
-
 
 ## Overview
 
